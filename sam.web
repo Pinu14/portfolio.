@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Samruddhi Waghmode</h1>
+    <p>Python Developer</p>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>I am a Python Developer passionate about building web applications using Python and Django.</p>
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>Django</li>
+        <li>SQL</li>
+        <li>HTML</li>
+        <li>CSS</li>
+    </ul>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+
+    <h3>1. Student Management System</h3>
+    <p>Python project to manage student records.</p>
+
+    <h3>2. To-Do List App</h3>
+    <p>Task management application using Python.</p>
+
+    <h3>3. Weather App</h3>
+    <p>Weather application using API.</p>
+
+</section>
+
+<section id="contact">
+    <h2>9699326260</h2>
+    <p>Email: samruddhiwaghmode1418@gmail.com</p>
+    <p>GitHub: github.com/samruddhi1401</p>
+</section>
+
+</body>
+</html>
